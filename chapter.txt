@@ -1,0 +1,3 @@
+version control with git.
+
+working directory -> staging area.
